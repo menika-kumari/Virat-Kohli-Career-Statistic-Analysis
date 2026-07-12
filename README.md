@@ -32,8 +32,7 @@ This Power BI dashboard provides an interactive analysis of Virat Kohli's intern
 
 ## 📷 Dashboard Preview
 
-C:\Users\mk343\OneDrive\Pictures\Screenshots\Screenshot 2026-07-12 111433.png
-
+"C:\Users\mk343\OneDrive\Pictures\Virat Kohli Career Statistics Analysis.png"
 ---
 
 ## 📁 Dataset
