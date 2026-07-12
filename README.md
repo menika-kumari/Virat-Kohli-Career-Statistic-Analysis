@@ -1,4 +1,4 @@
-<img width="1470" height="802" alt="Virat Kohli Career Statistics Analysis" src="https://github.com/user-attachments/assets/53e643cf-521b-48a1-9995-399adc81ff46" /># 🏏 Virat Kohli Career Statistics Analysis Dashboard
+# 🏏 Virat Kohli Career Statistics Analysis Dashboard
 
 ## 📌 Project Overview
 This Power BI dashboard provides an interactive analysis of Virat Kohli's international cricket career statistics. It enables users to explore his performance across different formats (ODI, T20I, and Test) using dynamic visualizations and filters.
@@ -30,11 +30,6 @@ This Power BI dashboard provides an interactive analysis of Virat Kohli's intern
 
 ---
 
-## 📷 Dashboard Preview
-
-![Dashboard](ViratKohliCareerStatisticsAnalysis.png)
-
----
 
 ## 📁 Dataset
 
